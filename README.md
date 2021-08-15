@@ -1,2 +1,10 @@
 # web-330
-A repository for Enterprise Javascript II
+
+Repository for Enterprise Javascript II
+
+# 330 Enterprise JavaScript II
+
+## Contributors
+
+- Professor Peter Itskovich
+- Mark Palmer
