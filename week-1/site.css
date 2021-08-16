@@ -1,0 +1,62 @@
+/**
+     Title: site.css
+     Author: Mark Palmer
+     Date: 08/15/2021
+     Description: Styling for the Landing Page for Enterprise Javascript II
+*/
+
+/* Setting up Margins */
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* Icon Styling */
+#icon-mode:hover {
+    cursor: pointer;
+}
+#icon-text {
+    padding-left: 10px;
+}
+.pull-right {
+    float: right;
+}
+
+/**
+    Styles added per the requirements in the Web 330 HTML, CSS, and JavaScript Requirements document.
+ */
+ .app-header {
+    text-align: center;
+    font-weight: 400;
+    border: none;
+    color: inherit;
+    background-color: inherit;
+}
+
+.return-home {
+    color: #4F3674;
+    text-decoration: none;
+}
+
+.return-home:hover {
+    background-color: #D6A800;
+    color: #4F3674;
+}
+
+.return-home:visited {
+    color: #3c275a;
+}
+
+.form {
+    display: inline-grid;
+    grid-template-columns: auto;
+}
+
+.form-field {
+    padding: 20px;
+}
+
+.full-width {
+    width: 100%;
+}
